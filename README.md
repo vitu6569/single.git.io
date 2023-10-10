@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component
 
-![Design preview for the Single price grid component coding challenge](.single-price-grid-component-master/design/preview.png)
+![Design preview for the Single price grid component coding challenge](.single-price-grid-component-master/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
